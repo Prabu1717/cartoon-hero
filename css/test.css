@@ -1,0 +1,20 @@
+body {
+    background-color: beige;
+}
+h1 { font-size:60px;
+    color: navy;
+}
+h2{ font-size: 20px;
+color:magenta;
+}
+.big { font-size:60px;
+}
+.uppercase { 
+text-transform: uppercase;
+}
+.big.uppercase {
+color:yellow;
+}
+span {
+color: red;
+}
